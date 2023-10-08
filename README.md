@@ -18,3 +18,8 @@ SEMESTER 3
 
 ## SQUENCE POS TUKANG BAKSO
 
+### Pembelian & Pembayaran
+
+![image](https://github.com/Aliyahasmarani/RPL1/assets/115197672/2e10aa71-9574-4cb2-b296-9efeff70378f)
+
+
